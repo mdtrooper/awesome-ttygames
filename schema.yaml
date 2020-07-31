@@ -20,3 +20,6 @@ sequence:
       wikipedia:
         type: str
         required: False
+      genre:
+        type: str
+        required: False
